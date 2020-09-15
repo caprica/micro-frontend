@@ -1,6 +1,6 @@
 # Micro-frontend application
 
-This project presents an example of a ReactJS micro-front application.
+This project presents an example of a ReactJS micro-frontend application.
 
 There are three sub-projects:
 
