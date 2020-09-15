@@ -29,9 +29,3 @@ Individual applications can still be run as normal if needed.
 
 Note that hot reload of changed pages does not work across the hosted applications from within this container, only this
 container application itself will support hot reloading.
-
-## References
-
-[This project](https://github.com/JenniferFuBook/app-container/tree/chunkOptimization) was very useful.
-
-[This](https://github.com/micro-frontends-demo/container/blob/master/src/MicroFrontend.js) was the original source.

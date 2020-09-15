@@ -17,3 +17,9 @@ application.
 Obviously you can have as many of these applications as you need.
 
 Start with the README in the "container" sub-project.
+
+## References
+
+[This project](https://github.com/JenniferFuBook/app-container/tree/chunkOptimization) was very useful.
+
+[This](https://github.com/micro-frontends-demo/container/blob/master/src/MicroFrontend.js) was the original source.
